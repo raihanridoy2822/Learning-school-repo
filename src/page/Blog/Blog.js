@@ -6,7 +6,7 @@ const Blog = () => {
         <div className='blog'>
             <div className='question'>
                 <h1>What is Cors?</h1>
-                <p>CORS stands for Cross-Origin Resource Sharing . It allows us to relax the security applied to an API. This is done by bypassing to Access-Control-Allow-Origin headers, which specify which origins can access the API</p>
+                <p>CORS stands for Cross-Origin Resource Sharing . It allows to relax the security applied to an API. This is done by bypassing to Access-Control-Allow-Origin headers, which specify which origins can access the API</p>
             </div>
             <div className='question'>
                 <h1>Why are you using firebase?</h1>
