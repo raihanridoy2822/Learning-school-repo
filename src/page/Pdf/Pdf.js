@@ -13,7 +13,7 @@ const Pdfg = () => {
           {({ toPdf }) => <button onClick={toPdf}> Pdf Link</button>}
         </Pdf>
         <div ref={ref}>
-          Please Click This a Button
+          Please Click to This  Button
         </div>
       </div>
     </div>
